@@ -1,0 +1,14 @@
+{
+  "name": "mongo_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bishal",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongodb": "^6.10.0"
+  }
+}

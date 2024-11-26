@@ -1,0 +1,19 @@
+{
+  "name": "day6",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "nodemon": "^3.1.7"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "express-rate-limit": "^7.4.1"
+  }
+}

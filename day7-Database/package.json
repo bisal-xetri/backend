@@ -1,0 +1,22 @@
+{
+  "name": "day7",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "nodemon": "^3.1.7"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/mysql": "^2.15.26",
+    "@types/node": "^22.10.0",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.4"
+  }
+}
